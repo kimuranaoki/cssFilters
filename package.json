@@ -52,7 +52,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ghosh/Reaction.git"
+    "url": "git+https://github.com/kimuranaoki/Reaction.git"
   },
   "keywords": [
     "react",
@@ -65,12 +65,12 @@
     "starter",
     "kit"
   ],
-  "author": "Indrashish Ghosh",
+  "author": "Kimura Naoki",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Ghosh/cssFilters/issues"
+    "url": "https://github.com/kimuranaoki/cssFilters/issues"
   },
-  "homepage": "https://github.com/Ghosh/cssFilters",
+  "homepage": "https://github.com/kimuranaoki/cssFilters",
   "dependencies": {
     "gulp-util": "^3.0.8",
     "react": "^0.14.3",
