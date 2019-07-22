@@ -65,7 +65,7 @@
     "starter",
     "kit"
   ],
-  "author": "Kimura Naoki",
+  "author": "Kimura Naoki <kimuranaoki@protonmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kimuranaoki/cssFilters/issues"
